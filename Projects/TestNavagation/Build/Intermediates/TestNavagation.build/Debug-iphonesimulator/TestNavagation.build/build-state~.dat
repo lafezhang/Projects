@@ -1,0 +1,363 @@
+TTestNavagation
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch TestNavagation/TestNavagation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation normal i386
+cCopyStringsFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings TestNavagation/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets
+cProcessInfoPlistFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist
+cGenerateDSYMFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation
+cTouch /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053206F3100000000000003B4
+t1394634545
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053206F38000000000000019E
+t1394634552
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053206F3A0000000000446820
+t1394634554
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053206F3C000000000088D8C0
+t1394634556
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053206F410000000001F1DE10
+t1394634561
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053206F630000000000000ADC
+t1394634595
+s2780
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch
+t1402628045
+s122552
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o
+t1402628045
+s62424
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/TestNavagation.LinkFileList
+c00000000539A67CD00000000000001F1
+t1402628045
+s497
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o
+t1402628045
+s41676
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o
+t1402628045
+s3580
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_dependencies.txt
+t1402628047
+s432
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_generated_info.plist
+t1402628047
+s525
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app
+t1402628047
+s306
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM
+t2
+s0
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Base.lproj/Main.storyboardc
+t1402628046
+s170
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist
+t1402628047
+s1033
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/PkgInfo
+t1402628047
+s8
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation
+t1402628046
+s17808
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings
+t1402628046
+s42
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m
+c00000000539A675700000000000007E5
+t1402627927
+s2021
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard
+c00000000539A6757000000000000071B
+t1402627927
+s1819
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets
+c00000000539A67570000000000000088
+t1402627927
+s136
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist
+c00000000539A675700000000000004C8
+t1402627927
+s1224
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Prefix.pch
+c00000000539A67570000000000000158
+t1402627927
+s344
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m
+c00000000539A67BE0000000000000294
+t1402628030
+s660
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/en.lproj/InfoPlist.strings
+c00000000539A6757000000000000002D
+t1402627927
+s45
+
+N/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m
+c00000000539A6757000000000000015F
+t1402627927
+s351
+
+CBuild AST from /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m
+r0
+
+CBuild AST from /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m
+r0
+
+CBuild AST from /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7442484d9f4ab941^876b554d9f4ab941^---0#1#1#--18"Check dependencies36"30045255-1E67-4356-8461-5C85036F4171-
+
+CCompileAssetCatalog /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets
+s424320846.790900
+e424320847.143275
+r1
+xCompileAssetCatalog
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/LaunchImage-700-568h@2x.png
+o/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Assets.car
+o/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestNavagation.app TestNavagation/Images.xcassets106"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestNavagation.app TestNavagation/Images.xcassets2289ca4e9f4ab941^bcad244f9f4ab941^-460"/* com.apple.actool.compilation-results *//Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/LaunchImage-700-568h@2x.png/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Assets.car/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets/0000000000000000^1244"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestNavagation.app TestNavagation/Images.xcassets    cd /Users/zhangxiaodong/testprojects/TestNavagation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Images.xcassets36"A5B63B91-8402-4276-99C8-CD296FAB8EF5-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424320845.868769
+e424320845.947718
+r1
+xCompileC
+xBuild/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m223"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o TestNavagation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb77ede4d9f4ab941^d89df24d9f4ab941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m0000000000000000^3995"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o TestNavagation/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhangxiaodong/testprojects/TestNavagation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/zhangxiaodong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-generated-files.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-own-target-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-all-target-headers.hmap -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-project-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources/i386 -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources -F/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator -include /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch -MMD -MT dependencies -MF /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.dia -c /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.m -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o36"4928D8F8-58CD-4064-8985-F0661E4F1FAD-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424320845.625937
+e424320845.868240
+r1
+xCompileC
+xBuild/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m229"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o TestNavagation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0857a04d9f4ab941^1f48de4d9f4ab941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m0000000000000000^4013"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o TestNavagation/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhangxiaodong/testprojects/TestNavagation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/zhangxiaodong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-generated-files.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-own-target-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-all-target-headers.hmap -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-project-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources/i386 -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources -F/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator -include /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch -MMD -MT dependencies -MF /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.dia -c /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/ViewController.m -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o36"4A086E85-4808-4FF7-8937-81E266B458BA-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CCompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424320845.948170
+e424320845.988887
+r1
+xCompileC
+xBuild/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m209"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o TestNavagation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfed2f24d9f4ab941^342dfd4d9f4ab941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m0000000000000000^3953"CompileC Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o TestNavagation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhangxiaodong/testprojects/TestNavagation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/zhangxiaodong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-generated-files.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-own-target-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-all-target-headers.hmap -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-project-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources/i386 -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources -F/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator -include /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch -MMD -MT dependencies -MF /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.dia -c /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/main.m -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o36"F4AD9EF5-7E1D-4C38-A533-329E758E6CD5-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CCompileStoryboard /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard
+s424320846.152768
+e424320846.790350
+r1
+xCompileStoryboard
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard TestNavagation/Base.lproj/Main.storyboard59"CompileStoryboard TestNavagation/Base.lproj/Main.storyboard662f274e9f4ab941^c554ca4e9f4ab941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard0000000000000000^890"CompileStoryboard TestNavagation/Base.lproj/Main.storyboard    cd /Users/zhangxiaodong/testprojects/TestNavagation    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Base.lproj/Main.storyboardc /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/Base.lproj/Main.storyboard36"EB8FD79A-82DB-4404-A558-CF1D8BEC2111-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CCopyStringsFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings TestNavagation/en.lproj/InfoPlist.strings
+s424320846.151348
+e424320846.152426
+r1
+xCopyStringsFile
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings
+xTestNavagation/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy TestNavagation/en.lproj/InfoPlist.strings140"CopyStringsFile Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings TestNavagation/en.lproj/InfoPlist.strings46d2264e9f4ab941^3e06274e9f4ab941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/en.lproj/InfoPlist.strings0000000000000000^641"CopyStringsFile Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj/InfoPlist.strings TestNavagation/en.lproj/InfoPlist.strings    cd /Users/zhangxiaodong/testprojects/TestNavagation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/en.lproj -- TestNavagation/en.lproj/InfoPlist.strings36"0DF1C0C2-8253-4CD5-A6FE-22D96DA3BA2B-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CGenerateDSYMFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation
+s424320847.145870
+e424320847.169565
+r1
+xGenerateDSYMFile
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generate /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM148"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagationed63254f9f4ab941^a06b2b4f9f4ab941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM00340402ddffdf42^733"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation    cd /Users/zhangxiaodong/testprojects/TestNavagation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app.dSYM36"AA4666E2-852E-4335-8A98-1A9A83CBDC26-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CLd /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation normal i386
+s424320845.989984
+e424320846.150171
+r1
+xLd
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation
+xnormal
+xi386
+d/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/TestNavagation.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/ViewController.o
+d/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/AppDelegate.o
+d/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation85"Ld Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation normal i3868c81fd4d9f4ab941^c174264e9f4ab941^---0#0#1#--1519"Ld Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation normal i386    cd /Users/zhangxiaodong/testprojects/TestNavagation    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator -F/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator -filelist /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/TestNavagation.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/Objects-normal/i386/TestNavagation_dependency_info.dat -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/TestNavagation36"746A455A-E6C0-4E3D-9CF9-336D40C72E84-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CProcessInfoPlistFile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist
+s424320847.143816
+e424320847.145431
+r1
+xProcessInfoPlistFile
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist
+x/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist128"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist TestNavagation/TestNavagation-Info.plist8bdf244f9f4ab941^c13b254f9f4ab941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist0000000000000000^995"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist TestNavagation/TestNavagation-Info.plist    cd /Users/zhangxiaodong/testprojects/TestNavagation    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Info.plist -genpkginfo /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/assetcatalog_generated_info.plist -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app/Info.plist36"003343D4-290A-41A5-AA98-4086A4D5A25D-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CProcessPCH /Users/zhangxiaodong/Library/Developer/Xcode/DerivedData/TestNavagation-clhesclqwvslbbgkxgegmfczqfca/Index/PrecompiledHeaders/TestNavagation-Prefix-fptvpjtwaonvnugplyqfjwrbwjve_ast/TestNavagation-Prefix.pch.pch TestNavagation/TestNavagation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch TestNavagation/TestNavagation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424320845.336355
+e424320845.625261
+r1
+xProcessPCH
+x/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch
+xTestNavagation/TestNavagation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile TestNavagation/TestNavagation-Prefix.pch239"ProcessPCH Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch TestNavagation/TestNavagation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7638564d9f4ab941^3812a04d9f4ab941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Prefix.pch0000000000000000^3858"ProcessPCH Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch TestNavagation/TestNavagation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhangxiaodong/testprojects/TestNavagation    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/zhangxiaodong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-generated-files.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-own-target-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-all-target-headers.hmap -iquote /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/TestNavagation-project-headers.hmap -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources/i386 -I/Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/TestNavagation.build/Debug-iphonesimulator/TestNavagation.build/DerivedSources -F/Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.dia -MMD -MT dependencies -MF /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.d -c /Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Prefix.pch -o /Users/zhangxiaodong/testprojects/TestNavagation/Build/Intermediates/PrecompiledHeaders/TestNavagation-Prefix-agabiqtxddrnldccpdwxojqghqah/TestNavagation-Prefix.pch.pch36"F4F35BD6-0BA5-4E36-AB6E-E2523E1328F9-
+bFE94BA28-DD4C-4DB8-A8AB-90A71CFE65AC
+
+CTouch /Users/zhangxiaodong/testprojects/TestNavagation/Build/Products/Debug-iphonesimulator/TestNavagation.app
+r0
+

@@ -1,0 +1,97 @@
+# 1 "/Users/zhangxiaodong/testprojects/TestNavagation/UIViewController+Process.m"
+# 1 "<built-in>" 1
+# 1 "<built-in>" 3
+# 175 "<built-in>" 3
+# 1 "<command line>" 1
+
+# 1 "/Users/zhangxiaodong/testprojects/TestNavagation/TestNavagation/TestNavagation-Prefix.pch" 1
+
+
+
+
+
+
+@import Darwin.Availability; /* clang -E: implicit import for "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/Availability.h" */
+
+
+
+
+
+
+@import UIKit; /* clang -E: implicit import for "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h" */
+@import Foundation; /* clang -E: implicit import for "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h" */
+# 3 "<command line>" 2
+# 1 "<built-in>" 2
+# 1 "/Users/zhangxiaodong/testprojects/TestNavagation/UIViewController+Process.m" 2
+
+
+
+
+
+
+
+
+# 1 "/Users/zhangxiaodong/testprojects/TestNavagation/UIViewController+Process.h" 1
+
+
+
+
+
+
+
+
+@import UIKit; /* clang -E: implicit import for "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h" */
+
+@interface UIViewController (Process)
+
+- (NSString*)processIdentifier;
+- (void)setProcessIdentifier:(NSString*)processIdentifier;
+
+- (void)markAsProcessStartWithIdentifier:(NSString*)processIdentifier;
+- (void)markAsProcessEndWithIdentifier:(NSString*)processIdentifier;
+
+- (NSString*)markAsProcessStart;
+- (NSString*)markAsProcessEnd;
+
+- (void)popToPreviouseProcess;
+- (void)popToProcess:(NSString*)processIdentifier;
+
+@end
+# 10 "/Users/zhangxiaodong/testprojects/TestNavagation/UIViewController+Process.m" 2
+@import ObjectiveC.runtime; /* clang -E: implicit import for "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/runtime.h" */
+# 24 "/Users/zhangxiaodong/testprojects/TestNavagation/UIViewController+Process.m"
+@implementation UIViewController (Process)
+
+- (NSString*)processIdentifier { id ret = objc_getAssociatedObject(self, (void*)0); return ret; } - (void)setCloseIdentifier:(NSString*)value { objc_setAssociatedObject(self, (void*)0, value, OBJC_ASSOCIATION_RETAIN); }
+- (NSString*)closeIdentifier { id ret = objc_getAssociatedObject(self, (void*)1); return ret; } - (void)setCloseIdentifier:(NSString*)value { objc_setAssociatedObject(self, (void*)1, value, OBJC_ASSOCIATION_RETAIN); }
+
+- (NSString*)closeIdentifier
+{
+    NSString* closeIdentifier = objc_getAssociatedObject(self, (void*)1);
+    return closeIdentifier;
+}
+
+- (void)setCloseIdentifier:(NSString*)closeIdentifier
+{
+    objc_setAssociatedObject(self, (void*)1, closeIdentifier, OBJC_ASSOCIATION_RETAIN);
+}
+
+- (NSString*)markAsProcessStart
+{
+    NSString* uuid = [[NSUUID UUID] UUIDString];
+    [self markAsProcessStartWithIdentifier:uuid];
+    return uuid;
+}
+
+- (void)markAsProcessStartWithIdentifier:(NSString *)processIdentifier
+{
+    self.processIdentifier = processIdentifier;
+}
+
+- (void)markAsProcessEndWithIdentifier:(NSString *)processIdentifier
+{
+    [self setCloseIdentifier:processIdentifier];
+
+}
+
+@end
